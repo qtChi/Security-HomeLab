@@ -169,7 +169,3 @@ Planned expansions for the lab include:
 - Blue team detection exercises
 
 ---
-
-# Author
-
-Cybersecurity homelab project developed to build hands-on experience with **enterprise security infrastructure, network defense, and security monitoring technologies.**
